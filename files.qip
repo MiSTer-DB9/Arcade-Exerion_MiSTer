@@ -1,4 +1,4 @@
-set_global_assignment -name QIP_FILE "modules/cpu-t80/index.qip"
+set_global_assignment -name QIP_FILE "modules/cpu-T80/index.qip"
 set_global_assignment -name QIP_FILE "modules/sound-jt49/index.qip"
 set_global_assignment -name QIP_FILE "rtl/index.qip"
 set_global_assignment -name SYSTEMVERILOG_FILE Arcade-Exerion.sv
